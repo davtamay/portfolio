@@ -1,0 +1,33 @@
+
+{
+  // "compilerOptions": {
+  //   "plugins": [
+  //     {
+  //       "name": "@twind/typescript-plugin",
+  //       "tags": ["tw", "cx"]
+  //     }
+  //   ]
+  // },
+  "twind.debug": true,
+"twind.enable": true,
+
+
+
+
+    
+    // "twind.includeLanguages": {
+    //     "html": "html",
+    //     "javascript": "javascript",
+    //     "css": "css"
+    // },
+
+    "editor.suggest.showStatusBar": true,
+    "editor.quickSuggestions": {
+      "strings": true
+    }
+
+    
+    
+    
+}
+
